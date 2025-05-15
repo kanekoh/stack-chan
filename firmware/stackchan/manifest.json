@@ -106,7 +106,7 @@
     },
     "esp32/m5stack_cores3": {
       "build": {
-        "PARTITIONS_FILE": "./sdkconfig.d/customPartitions.csv"
+        "PARTITIONS_FILE": "./sdkconfig/customPartitions.csv"
       },
       "config": {
         "driver": {
