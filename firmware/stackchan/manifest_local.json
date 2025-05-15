@@ -7,7 +7,9 @@
       "port": 50021
     },
     "driver": {
-      "type": "scservo"
+      "type": "pwm",
+      "panId": 2,
+      "tiltId": 1
     }
   }
 }
